@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Netlify CMS - Jer`,
+    title: `FCV`,
     author: `Jer`,
     description: `A starter blog demonstrating what Gatsby can do with Netlify CMS.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
